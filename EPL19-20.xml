@@ -1,0 +1,2628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<season year="2019-2020">
+	<games>
+		<gameweek>
+			<game>
+				<home team="Liverpool" />
+				<away team="Norwich City" />
+				<goal team="Liverpool" pen="false">Own Goal</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Virgil van Dijk</goal>
+				<goal team="Liverpool" pen="false">Divock Origi</goal>
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Sheffield United" />
+				<goal team="AFC Bournemouth" pen="false">Chris Mepham</goal>
+				<goal team="Sheffield United" pen="false">Billy Sharp</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Southampton" />
+				<goal team="Burnley" pen="false">Ashley Barnes</goal>
+				<goal team="Burnley" pen="false">Ashley Barnes</goal>
+				<goal team="Burnley" pen="false">Jóhann Gudmundsson</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Everton" />
+				<goal team="Everton" pen="false">Morgan Schneiderlin</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Wolverhampton Wanderers" />
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Aston Villa" />
+				<goal team="Tottenham Hotspur" pen="false">Tanguy Ndombele</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Aston Villa" pen="false">John McGinn</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Brighton and Hove Albion" pen="false">Own Goal</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Florin Andone</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Manchester City" />
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="true">Sergio Agüero</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Chelsea" />
+				<goal team="Manchester United" pen="true">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Daniel James</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Arsenal" />
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Burnley" />
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Burnley" pen="false">Ashley Barnes</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="AFC Bournemouth" />
+				<goal team="Aston Villa" pen="false">Douglas Luiz</goal>
+				<goal team="AFC Bournemouth" pen="true">Joshua King</goal>
+				<goal team="AFC Bournemouth" pen="false">Harry Wilson</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="West Ham United" />
+				<goal team="Brighton and Hove Albion" pen="false">Leandro Trossard</goal>
+				<goal team="West Ham United" pen="false">Chicharito</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Leicester City" />
+				<goal team="Chelsea" pen="false">Mason Mount</goal>
+				<goal team="Leicester City" pen="false">Onyinye Wilfred Ndidi</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Watford" />
+				<goal team="Everton" pen="false">Bernard</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Tottenham Hotspur" pen="false">Erik Lamela</goal>
+				<goal team="Tottenham Hotspur" pen="false">Lucas Moura</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Newcastle United" />
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+				<goal team="Newcastle United" pen="false">Jonjo Shelvey</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Crystal Palace" />
+				<goal team="Sheffield United" pen="false">John Lundstram</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Liverpool" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Manchester United" />
+				<goal team="Wolverhampton Wanderers" pen="false">Rúben Neves</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Everton" />
+				<goal team="Aston Villa" pen="false">Wesley</goal>
+				<goal team="Aston Villa" pen="false">Anwar El Ghazi</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Manchester City" />
+				<goal team="AFC Bournemouth" pen="false">Harry Wilson</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Southampton" />
+				<goal team="Brighton and Hove Albion" pen="false">Florin Andone</goal>
+				<goal team="Southampton" pen="false">Moussa Djenepo</goal>
+				<goal team="Southampton" pen="false">Nathan Redmond</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Arsenal" />
+				<goal team="Liverpool" pen="false">Joel Matip</goal>
+				<goal team="Liverpool" pen="true">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Arsenal" pen="false">Lucas Torreira</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Crystal Palace" />
+				<goal team="Manchester United" pen="false">Daniel James</goal>
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+				<goal team="Crystal Palace" pen="false">Patrick van Aanholt</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Chelsea" />
+				<goal team="Norwich City" pen="false">Todd Cantwell</goal>
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Mason Mount</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Leicester City" />
+				<goal team="Sheffield United" pen="false">Oliver McBurnie</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Harvey Barnes</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Newcastle United" />
+				<goal team="Newcastle United" pen="false">Joelinton</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="West Ham United" />
+				<goal team="Watford" pen="false">Andre Gray</goal>
+				<goal team="West Ham United" pen="true">Mark Noble</goal>
+				<goal team="West Ham United" pen="false">Sébastien Haller</goal>
+				<goal team="West Ham United" pen="false">Sébastien Haller</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Burnley" />
+				<goal team="Wolverhampton Wanderers" pen="true">Raúl Jiménez</goal>
+				<goal team="Burnley" pen="false">Ashley Barnes</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Tottenham Hotspur" pen="false">Christian Eriksen</goal>
+				<goal team="Tottenham Hotspur" pen="true">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Liverpool" />
+				<goal team="Liverpool" pen="false">Own Goal</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Sheffield United" />
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Sheffield United" pen="false">Callum Robinson</goal>
+				<goal team="Sheffield United" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Aston Villa" />
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+				<goal team="Aston Villa" pen="false">Trézéguet</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Everton" pen="false">Richarlison</goal>
+				<goal team="Everton" pen="false">Richarlison</goal>
+				<goal team="Everton" pen="false">Alex Iwobi</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Romain Saïss</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Willy Boly</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="AFC Bournemouth" />
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Youri Tielemans</goal>
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Bernardo Silva</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Watford" />
+				<goal team="Newcastle United" pen="false">Fabian Schär</goal>
+				<goal team="Watford" pen="false">Will Hughes</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Manchester United" />
+				<goal team="Southampton" pen="false">Jannik Vestergaard</goal>
+				<goal team="Southampton" pen="false">Kevin Danso</goal>
+				<goal team="Manchester United" pen="false">Daniel James</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Norwich City" />
+				<goal team="West Ham United" pen="false">Sébastien Haller</goal>
+				<goal team="West Ham United" pen="false">Andriy Yarmolenko</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="West Ham United" />
+				<goal team="West Ham United" pen="false">Arthur Masuaku</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Everton" />
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+				<goal team="AFC Bournemouth" pen="false">Ryan Fraser</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Burnley" />
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+				<goal team="Burnley" pen="false">Jeff Hendrick</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Newcastle United" />
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Newcastle United" pen="false">Jetro Willems</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Leicester City" />
+				<goal team="Manchester United" pen="true">Marcus Rashford</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Manchester City" />
+				<goal team="Norwich City" pen="false">Kenny McLean</goal>
+				<goal team="Norwich City" pen="false">Todd Cantwell</goal>
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Rodrigo</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Southampton" />
+				<goal team="Sheffield United" pen="false">Billy Sharp</goal>
+				<goal team="Southampton" pen="false">Moussa Djenepo</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Crystal Palace" />
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Tottenham Hotspur" pen="false">Own Goal</goal>
+				<goal team="Tottenham Hotspur" pen="false">Erik Lamela</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Arsenal" />
+				<goal team="Watford" pen="false">Tom Cleverley</goal>
+				<goal team="Watford" pen="true">Roberto Pereyra</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Chelsea" />
+				<goal team="Wolverhampton Wanderers" pen="false">Own Goal</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Patrick Cutrone</goal>
+				<goal team="Chelsea" pen="false">Fikayo Tomori</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Mason Mount</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Aston Villa" />
+				<goal team="Arsenal" pen="false">Ainsley Maitland-Niles</goal>
+				<goal team="Arsenal" pen="true">Nicolas Pépé</goal>
+				<goal team="Arsenal" pen="false">Calum Chambers</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Aston Villa" pen="false">John McGinn</goal>
+				<goal team="Aston Villa" pen="false">Wesley</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Norwich City" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Liverpool" />
+				<goal team="Chelsea" pen="false">N'Golo Kanté</goal>
+				<goal team="Liverpool" pen="false">Trent Alexander-Arnold</goal>
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Crystal Palace" pen="false">Own Goal</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Romain Saïss</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Diogo Jota</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Sheffield United" />
+				<goal team="Sheffield United" pen="false">Own Goal</goal>
+				<goal team="Sheffield United" pen="false">Lys Mousset</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Leicester City" pen="false">Ricardo Pereira</goal>
+				<goal team="Leicester City" pen="false">James Maddison</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Watford" />
+				<goal team="Manchester City" pen="false">David Silva</goal>
+				<goal team="Manchester City" pen="true">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="false">Bernardo Silva</goal>
+				<goal team="Manchester City" pen="false">Bernardo Silva</goal>
+				<goal team="Manchester City" pen="false">Bernardo Silva</goal>
+				<goal team="Manchester City" pen="false">Nicolás Otamendi</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Brighton and Hove Albion" />
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="AFC Bournemouth" />
+				<goal team="Southampton" pen="true">James Ward-Prowse</goal>
+				<goal team="AFC Bournemouth" pen="false">Nathan Aké</goal>
+				<goal team="AFC Bournemouth" pen="false">Harry Wilson</goal>
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Manchester United" />
+				<goal team="West Ham United" pen="false">Andriy Yarmolenko</goal>
+				<goal team="West Ham United" pen="false">Aaron Cresswell</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Burnley" />
+				<goal team="Aston Villa" pen="false">Anwar El Ghazi</goal>
+				<goal team="Aston Villa" pen="false">John McGinn</goal>
+				<goal team="Burnley" pen="false">Jay Rodriguez</goal>
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="West Ham United" />
+				<goal team="AFC Bournemouth" pen="false">Joshua King</goal>
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+				<goal team="West Ham United" pen="false">Andriy Yarmolenko</goal>
+				<goal team="West Ham United" pen="false">Aaron Cresswell</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Chelsea" pen="true">Jorginho</goal>
+				<goal team="Chelsea" pen="false">Willian</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Norwich City" />
+				<goal team="Crystal Palace" pen="true">Luka Milivojevic</goal>
+				<goal team="Crystal Palace" pen="false">Andros Townsend</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Manchester City" />
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Newcastle United" />
+				<goal team="Leicester City" pen="false">Ricardo Pereira</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Own Goal</goal>
+				<goal team="Leicester City" pen="false">Onyinye Wilfred Ndidi</goal>
+				<goal team="Newcastle United" pen="false">Isaac Hayden</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Arsenal" />
+				<goal team="Manchester United" pen="false">Scott McTominay</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Liverpool" />
+				<goal team="Liverpool" pen="false">Georginio Wijnaldum</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Southampton" />
+				<goal team="Tottenham Hotspur" pen="false">Tanguy Ndombele</goal>
+				<goal team="Tottenham Hotspur" pen="false">Serge Aurier</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Watford" />
+				<goal team="Wolverhampton Wanderers" pen="false">Matt Doherty</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="AFC Bournemouth" />
+				<goal team="Arsenal" pen="false">David Luiz</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Aaron Connolly</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Aaron Connolly</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Everton" />
+				<goal team="Burnley" pen="false">Jeff Hendrick</goal>
+				<goal team="Everton" pen="false">Séamus Coleman</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Leicester City" />
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="true">James Milner</goal>
+				<goal team="Leicester City" pen="false">James Maddison</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Wolverhampton Wanderers" pen="false">Adama Traoré</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Adama Traoré</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Manchester United" />
+				<goal team="Newcastle United" pen="false">Matthew Longstaff</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Aston Villa" />
+				<goal team="Norwich City" pen="false">Josip Drmic</goal>
+				<goal team="Aston Villa" pen="false">Wesley</goal>
+				<goal team="Aston Villa" pen="false">Wesley</goal>
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+				<goal team="Aston Villa" pen="false">Conor Hourihane</goal>
+				<goal team="Aston Villa" pen="false">Douglas Luiz</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Chelsea" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Mason Mount</goal>
+				<goal team="Chelsea" pen="false">N'Golo Kanté</goal>
+				<goal team="Chelsea" pen="false">Michy Batshuayi</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Sheffield United" />
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Crystal Palace" />
+				<goal team="West Ham United" pen="false">Sébastien Haller</goal>
+				<goal team="Crystal Palace" pen="true">Patrick van Aanholt</goal>
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+				<goal team="Aston Villa" pen="false">Matt Targett</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Adam Webster</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Aaron Mooy</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Norwich City" />
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Newcastle United" />
+				<goal team="Chelsea" pen="false">Marcos Alonso</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Manchester City" />
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">David Silva</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="West Ham United" />
+				<goal team="Everton" pen="false">Bernard</goal>
+				<goal team="Everton" pen="false">Gylfi Sigurdsson</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Burnley" />
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Youri Tielemans</goal>
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Liverpool" />
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Liverpool" pen="false">Adam Lallana</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Arsenal" />
+				<goal team="Sheffield United" pen="false">Lys Mousset</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Watford" />
+				<goal team="Tottenham Hotspur" pen="false">Dele Alli</goal>
+				<goal team="Watford" pen="false">Abdoulaye Doucouré</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Southampton" />
+				<goal team="Wolverhampton Wanderers" pen="true">Raúl Jiménez</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Crystal Palace" />
+				<goal team="Arsenal" pen="false">Sokratis</goal>
+				<goal team="Arsenal" pen="false">David Luiz</goal>
+				<goal team="Crystal Palace" pen="true">Luka Milivojevic</goal>
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Everton" />
+				<goal team="Brighton and Hove Albion" pen="false">Pascal Groß</goal>
+				<goal team="Brighton and Hove Albion" pen="true">Neal Maupay</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Own Goal</goal>
+				<goal team="Everton" pen="false">Own Goal</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Chelsea" />
+				<goal team="Burnley" pen="false">Jay Rodriguez</goal>
+				<goal team="Burnley" pen="false">Dwight McNeil</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+				<goal team="Chelsea" pen="false">Willian</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Liverpool" pen="false">Jordan Henderson</goal>
+				<goal team="Liverpool" pen="true">Mohamed Salah</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Aston Villa" />
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">David Silva</goal>
+				<goal team="Manchester City" pen="false">Ilkay Gündogan</goal>
+				<goal team="Manchester City" pen="false">Fernandinho</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Newcastle United" pen="false">Jamaal Lascelles</goal>
+				<goal team="Newcastle United" pen="false">Sean Longstaff</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Jonny</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Manchester United" />
+				<goal team="Norwich City" pen="false">Onel Hernández</goal>
+				<goal team="Manchester United" pen="false">Scott McTominay</goal>
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Leicester City" />
+				<goal team="Southampton" pen="false">Ryan Bertrand</goal>
+				<goal team="Leicester City" pen="false">Ben Chilwell</goal>
+				<goal team="Leicester City" pen="false">Youri Tielemans</goal>
+				<goal team="Leicester City" pen="false">Ayoze Pérez</goal>
+				<goal team="Leicester City" pen="false">Ayoze Pérez</goal>
+				<goal team="Leicester City" pen="false">Ayoze Pérez</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="true">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">James Maddison</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="AFC Bournemouth" />
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Sheffield United" />
+				<goal team="West Ham United" pen="false">Robert Snodgrass</goal>
+				<goal team="Sheffield United" pen="false">Lys Mousset</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Liverpool" />
+				<goal team="Aston Villa" pen="false">Trézéguet</goal>
+				<goal team="Liverpool" pen="false">Andrew Robertson</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Manchester United" />
+				<goal team="AFC Bournemouth" pen="false">Joshua King</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Norwich City" />
+				<goal team="Brighton and Hove Albion" pen="false">Leandro Trossard</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Shane Duffy</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Leicester City" />
+				<goal team="Leicester City" pen="false">Çaglar Söyüncü</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Everton" pen="false">Cenk Tosun</goal>
+				<goal team="Tottenham Hotspur" pen="false">Dele Alli</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Southampton" />
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Kyle Walker</goal>
+				<goal team="Southampton" pen="false">James Ward-Prowse</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Burnley" />
+				<goal team="Sheffield United" pen="false">John Lundstram</goal>
+				<goal team="Sheffield United" pen="false">John Lundstram</goal>
+				<goal team="Sheffield United" pen="false">John Fleck</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Chelsea" />
+				<goal team="Watford" pen="true">Gerard Deulofeu</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Newcastle United" />
+				<goal team="West Ham United" pen="false">Fabián Balbuena</goal>
+				<goal team="West Ham United" pen="false">Robert Snodgrass</goal>
+				<goal team="Newcastle United" pen="false">Ciaran Clark</goal>
+				<goal team="Newcastle United" pen="false">Federico Fernández</goal>
+				<goal team="Newcastle United" pen="false">Jonjo Shelvey</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="West Ham United" />
+				<goal team="Burnley" pen="false">Ashley Barnes</goal>
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Burnley" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Crystal Palace" />
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Arsenal" />
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">James Maddison</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Manchester City" />
+				<goal team="Liverpool" pen="false">Fabinho</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Manchester City" pen="false">Bernardo Silva</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Manchester United" pen="false">Andreas Pereira</goal>
+				<goal team="Manchester United" pen="false">Scott McTominay</goal>
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Lewis Dunk</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="AFC Bournemouth" />
+				<goal team="Newcastle United" pen="false">DeAndre Yedlin</goal>
+				<goal team="Newcastle United" pen="false">Ciaran Clark</goal>
+				<goal team="AFC Bournemouth" pen="false">Harry Wilson</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Watford" />
+				<goal team="Watford" pen="false">Gerard Deulofeu</goal>
+				<goal team="Watford" pen="false">Andre Gray</goal>
+				<goal team="Watford" pen="false">Christian Kabasele</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Everton" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Everton" pen="false">Tom Davies</goal>
+				<goal team="Everton" pen="false">Richarlison</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Sheffield United" />
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Sheffield United" pen="false">George Baldock</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Aston Villa" />
+				<goal team="Wolverhampton Wanderers" pen="false">Rúben Neves</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+				<goal team="Aston Villa" pen="false">Trézéguet</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Southampton" />
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">James Ward-Prowse</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Newcastle United" />
+				<goal team="Aston Villa" pen="false">Conor Hourihane</goal>
+				<goal team="Aston Villa" pen="false">Anwar El Ghazi</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="AFC Bournemouth" pen="false">Simon Francis</goal>
+				<goal team="AFC Bournemouth" pen="false">Steve Cook</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">João Moutinho</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Leicester City" />
+				<goal team="Leicester City" pen="false">Ayoze Pérez</goal>
+				<goal team="Leicester City" pen="true">Jamie Vardy</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Liverpool" />
+				<goal team="Crystal Palace" pen="false">Wilfried Zaha</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Norwich City" />
+				<goal team="Norwich City" pen="false">Todd Cantwell</goal>
+				<goal team="Norwich City" pen="false">Dennis Srbeny</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Chelsea" />
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Chelsea" pen="false">N'Golo Kanté</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Manchester United" />
+				<goal team="Sheffield United" pen="false">John Fleck</goal>
+				<goal team="Sheffield United" pen="false">Lys Mousset</goal>
+				<goal team="Sheffield United" pen="false">Oliver McBurnie</goal>
+				<goal team="Manchester United" pen="false">Brandon Williams</goal>
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Burnley" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Burnley" pen="true">Ashley Barnes</goal>
+				<goal team="Burnley" pen="false">James Tarkowski</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Tottenham Hotspur" />
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="West Ham United" pen="false">Angelo Ogbonna</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Tottenham Hotspur" pen="false">Lucas Moura</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Crystal Palace" />
+				<goal team="Crystal Palace" pen="false">Wilfried Zaha</goal>
+				<goal team="Crystal Palace" pen="false">Jeffrey Schlupp</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="West Ham United" />
+				<goal team="West Ham United" pen="false">Aaron Cresswell</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Everton" />
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Kelechi Iheanacho</goal>
+				<goal team="Everton" pen="false">Richarlison</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Liverpool" pen="false">Virgil van Dijk</goal>
+				<goal team="Liverpool" pen="false">Virgil van Dijk</goal>
+				<goal team="Liverpool" pen="false">Alisson</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Lewis Dunk</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Aston Villa" />
+				<goal team="Manchester United" pen="false">Own Goal</goal>
+				<goal team="Manchester United" pen="false">Victor Lindelöf</goal>
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+				<goal team="Aston Villa" pen="false">Tyrone Mings</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Manchester City" />
+				<goal team="Newcastle United" pen="false">Jetro Willems</goal>
+				<goal team="Newcastle United" pen="false">Jonjo Shelvey</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Arsenal" />
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+				<goal team="Norwich City" pen="false">Todd Cantwell</goal>
+				<goal team="Arsenal" pen="true">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Watford" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">James Ward-Prowse</goal>
+				<goal team="Watford" pen="false">Ismaila Sarr</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="AFC Bournemouth" />
+				<goal team="Tottenham Hotspur" pen="false">Dele Alli</goal>
+				<goal team="Tottenham Hotspur" pen="false">Dele Alli</goal>
+				<goal team="Tottenham Hotspur" pen="false">Moussa Sissoko</goal>
+				<goal team="AFC Bournemouth" pen="false">Harry Wilson</goal>
+				<goal team="AFC Bournemouth" pen="false">Harry Wilson</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Sheffield United" />
+				<goal team="Wolverhampton Wanderers" pen="false">Matt Doherty</goal>
+				<goal team="Sheffield United" pen="false">Lys Mousset</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Adam Webster</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Manchester City" />
+				<goal team="Burnley" pen="false">Robbie Brady</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Rodrigo</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Watford" />
+				<goal team="Leicester City" pen="true">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">James Maddison</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="true">Marcus Rashford</goal>
+				<goal team="Tottenham Hotspur" pen="false">Dele Alli</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Newcastle United" />
+				<goal team="Newcastle United" pen="false">Allan Saint-Maximin</goal>
+				<goal team="Newcastle United" pen="false">Jonjo Shelvey</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="West Ham United" />
+				<goal team="Wolverhampton Wanderers" pen="false">Leander Dendoncker</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Patrick Cutrone</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Aston Villa" />
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Mason Mount</goal>
+				<goal team="Aston Villa" pen="false">Trézéguet</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="AFC Bournemouth" />
+				<goal team="Crystal Palace" pen="false">Mamadou Sakho</goal>
+				<goal team="Crystal Palace" pen="false">Jeffrey Schlupp</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Everton" />
+				<goal team="Liverpool" pen="false">Divock Origi</goal>
+				<goal team="Liverpool" pen="false">Divock Origi</goal>
+				<goal team="Liverpool" pen="false">Xherdan Shaqiri</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="false">Georginio Wijnaldum</goal>
+				<goal team="Everton" pen="false">Michael Keane</goal>
+				<goal team="Everton" pen="false">Richarlison</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Norwich City" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">Ryan Bertrand</goal>
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Leicester City" />
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Kelechi Iheanacho</goal>
+				<goal team="Leicester City" pen="false">Jonny Evans</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Liverpool" />
+				<goal team="Liverpool" pen="false">Alex Oxlade-Chamberlain</goal>
+				<goal team="Liverpool" pen="false">Naby Keita</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Davy Pröpper</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Diogo Jota</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Diogo Jota</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Chelsea" />
+				<goal team="Everton" pen="false">Richarlison</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Chelsea" pen="false">Mateo Kovacic</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Manchester United" />
+				<goal team="Manchester City" pen="false">Nicolás Otamendi</goal>
+				<goal team="Manchester United" pen="true">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Southampton" />
+				<goal team="Newcastle United" pen="false">Jonjo Shelvey</goal>
+				<goal team="Newcastle United" pen="false">Federico Fernández</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Sheffield United" />
+				<goal team="Norwich City" pen="false">Alexander Tettey</goal>
+				<goal team="Sheffield United" pen="false">Enda Stevens</goal>
+				<goal team="Sheffield United" pen="false">George Baldock</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Burnley" />
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Tottenham Hotspur" pen="false">Lucas Moura</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Tottenham Hotspur" pen="false">Moussa Sissoko</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Crystal Palace" />
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Arsenal" />
+				<goal team="West Ham United" pen="false">Angelo Ogbonna</goal>
+				<goal team="Arsenal" pen="false">Gabriel Martinelli</goal>
+				<goal team="Arsenal" pen="false">Nicolas Pépé</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Manchester City" />
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Newcastle United" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="AFC Bournemouth" />
+				<goal team="AFC Bournemouth" pen="false">Dan Gosling</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Crystal Palace" pen="false">Wilfried Zaha</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Norwich City" />
+				<goal team="Leicester City" pen="false">Own Goal</goal>
+				<goal team="Norwich City" pen="false">Teemu Pukki</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Watford" />
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Everton" />
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="Everton" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Aston Villa" />
+				<goal team="Sheffield United" pen="false">John Fleck</goal>
+				<goal team="Sheffield United" pen="false">John Fleck</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="West Ham United" />
+				<goal team="West Ham United" pen="false">Sébastien Haller</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Wolverhampton Wanderers" pen="false">Adama Traoré</goal>
+				<goal team="Tottenham Hotspur" pen="false">Lucas Moura</goal>
+				<goal team="Tottenham Hotspur" pen="false">Jan Vertonghen</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Southampton" />
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">Jack Stephens</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Burnley" />
+				<goal team="Burnley" pen="false">Jay Rodriguez</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Sheffield United" />
+				<goal team="Sheffield United" pen="false">Oliver McBurnie</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Arsenal" />
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Leicester City" />
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="true">Ilkay Gündogan</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Crystal Palace" />
+				<goal team="Newcastle United" pen="false">Miguel Almirón</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Norwich City" pen="false">Todd Cantwell</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Romain Saïss</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Chelsea" />
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Chelsea" pen="false">Willian</goal>
+				<goal team="Chelsea" pen="true">Willian</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Manchester United" />
+				<goal team="Watford" pen="false">Ismaila Sarr</goal>
+				<goal team="Watford" pen="true">Troy Deeney</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Liverpool" />
+				<goal team="Liverpool" pen="true">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Alex Oxlade-Chamberlain</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Norwich City" />
+				<goal team="Aston Villa" pen="false">Conor Hourihane</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Arsenal" />
+				<goal team="AFC Bournemouth" pen="false">Dan Gosling</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Southampton" />
+				<goal team="Southampton" pen="false">Michael Obafemi</goal>
+				<goal team="Southampton" pen="false">Nathan Redmond</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="West Ham United" />
+				<goal team="Crystal Palace" pen="false">Cheikhou Kouyaté</goal>
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+				<goal team="West Ham United" pen="false">Robert Snodgrass</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Burnley" />
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Liverpool" />
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+				<goal team="Liverpool" pen="true">James Milner</goal>
+				<goal team="Liverpool" pen="false">Trent Alexander-Arnold</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Newcastle United" />
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Newcastle United" pen="false">Matthew Longstaff</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Watford" />
+				<goal team="Sheffield United" pen="true">Oliver Norwood</goal>
+				<goal team="Watford" pen="false">Gerard Deulofeu</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Tottenham Hotspur" pen="false">Dele Alli</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Adam Webster</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Manchester City" />
+				<goal team="Wolverhampton Wanderers" pen="false">Adama Traoré</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Matt Doherty</goal>
+				<goal team="Manchester City" pen="false">Ederson</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Chelsea" />
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Chelsea" pen="false">Jorginho</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="AFC Bournemouth" />
+				<goal team="Brighton and Hove Albion" pen="false">Alireza Jahanbakhsh</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Aaron Mooy</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Manchester United" />
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Sheffield United" />
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Everton" />
+				<goal team="Newcastle United" pen="false">Fabian Schär</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Norwich City" pen="false">Mario Vrancic</goal>
+				<goal team="Norwich City" pen="false">Own Goal</goal>
+				<goal team="Tottenham Hotspur" pen="false">Christian Eriksen</goal>
+				<goal team="Tottenham Hotspur" pen="true">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Crystal Palace" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Crystal Palace" pen="false">James Tomkins</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Aston Villa" />
+				<goal team="Watford" pen="false">Troy Deeney</goal>
+				<goal team="Watford" pen="true">Troy Deeney</goal>
+				<goal team="Watford" pen="false">Adrian Mariappa</goal>
+				<goal team="Watford" pen="false">Ismaila Sarr</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Leicester City" />
+				<goal team="West Ham United" pen="false">Pablo Fornals</goal>
+				<goal team="Leicester City" pen="false">Kelechi Iheanacho</goal>
+				<goal team="Leicester City" pen="false">Demarai Gray</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Manchester United" />
+				<goal team="Arsenal" pen="false">Nicolas Pépé</goal>
+				<goal team="Arsenal" pen="false">Sokratis</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Chelsea" />
+				<goal team="Brighton and Hove Albion" pen="false">Alireza Jahanbakhsh</goal>
+				<goal team="Chelsea" pen="false">César Azpilicueta</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Aston Villa" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Aston Villa" pen="false">Wesley</goal>
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Sheffield United" />
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Everton" />
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Everton" pen="false">Richarlison</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Leicester City" />
+				<goal team="Leicester City" pen="false">Ayoze Pérez</goal>
+				<goal team="Leicester City" pen="false">James Maddison</goal>
+				<goal team="Leicester City" pen="false">Hamza Choudhury</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Crystal Palace" />
+				<goal team="Norwich City" pen="false">Todd Cantwell</goal>
+				<goal team="Crystal Palace" pen="false">Connor Wickham</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Watford" pen="false">Gerard Deulofeu</goal>
+				<goal team="Watford" pen="false">Abdoulaye Doucouré</goal>
+				<goal team="Watford" pen="false">Christian Kabasele</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Pedro Neto</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="AFC Bournemouth" />
+				<goal team="West Ham United" pen="false">Mark Noble</goal>
+				<goal team="West Ham United" pen="true">Mark Noble</goal>
+				<goal team="West Ham United" pen="false">Sébastien Haller</goal>
+				<goal team="West Ham United" pen="false">Felipe Anderson</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Manchester City" />
+				<goal team="Aston Villa" pen="true">Anwar El Ghazi</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Watford" />
+				<goal team="Watford" pen="false">Abdoulaye Doucouré</goal>
+				<goal team="Watford" pen="false">Troy Deeney</goal>
+				<goal team="Watford" pen="false">Roberto Pereyra</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Burnley" />
+				<goal team="Chelsea" pen="true">Jorginho</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Callum Hudson-Odoi</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Arsenal" />
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Everton" pen="false">Richarlison</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Southampton" />
+				<goal team="Leicester City" pen="false">Dennis Praet</goal>
+				<goal team="Southampton" pen="false">Stuart Armstrong</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Norwich City" />
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="true">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="West Ham United" />
+				<goal team="Sheffield United" pen="false">Oliver McBurnie</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Liverpool" />
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Newcastle United" />
+				<goal team="Wolverhampton Wanderers" pen="false">Leander Dendoncker</goal>
+				<goal team="Newcastle United" pen="false">Miguel Almirón</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Sheffield United" />
+				<goal team="Arsenal" pen="false">Gabriel Martinelli</goal>
+				<goal team="Sheffield United" pen="false">John Fleck</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Aston Villa" />
+				<goal team="Brighton and Hove Albion" pen="false">Leandro Trossard</goal>
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Leicester City" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Burnley" pen="false">Ashley Westwood</goal>
+				<goal team="Leicester City" pen="false">Harvey Barnes</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Manchester United" />
+				<goal team="Liverpool" pen="false">Virgil van Dijk</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Crystal Palace" />
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+				<goal team="Crystal Palace" pen="false">Cenk Tosun</goal>
+				<goal team="Crystal Palace" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Chelsea" />
+				<goal team="Newcastle United" pen="false">Isaac Hayden</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="AFC Bournemouth" />
+				<goal team="Norwich City" pen="true">Teemu Pukki</goal>
+				<goal team="Norwich City" pen="false">Ben Godfrey</goal>
+				<goal team="AFC Bournemouth" pen="false">Steve Cook</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Southampton" pen="false">Jan Bednarek</goal>
+				<goal team="Southampton" pen="false">Shane Long</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Pedro Neto</goal>
+				<goal team="Wolverhampton Wanderers" pen="true">Raúl Jiménez</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Tottenham Hotspur" />
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Everton" />
+				<goal team="West Ham United" pen="false">Issa Diop</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Watford" />
+				<goal team="Aston Villa" pen="false">Douglas Luiz</goal>
+				<goal team="Aston Villa" pen="false">Tyrone Mings</goal>
+				<goal team="Watford" pen="false">Troy Deeney</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="AFC Bournemouth" pen="false">Harry Wilson</goal>
+				<goal team="AFC Bournemouth" pen="false">Own Goal</goal>
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Aaron Mooy</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Newcastle United" />
+				<goal team="Everton" pen="false">Moise Kean</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Newcastle United" pen="false">Florian Lejeune</goal>
+				<goal team="Newcastle United" pen="false">Florian Lejeune</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="West Ham United" />
+				<goal team="Leicester City" pen="false">Harvey Barnes</goal>
+				<goal team="Leicester City" pen="false">Ricardo Pereira</goal>
+				<goal team="Leicester City" pen="true">Ayoze Pérez</goal>
+				<goal team="Leicester City" pen="false">Ayoze Pérez</goal>
+				<goal team="West Ham United" pen="true">Mark Noble</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Burnley" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Burnley" pen="false">Jay Rodriguez</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Manchester City" />
+				<goal team="Manchester City" pen="false">Sergio Agüero</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Liverpool" />
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+				<goal team="Liverpool" pen="false">Jordan Henderson</goal>
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Arsenal" />
+				<goal team="Chelsea" pen="true">Jorginho</goal>
+				<goal team="Chelsea" pen="false">César Azpilicueta</goal>
+				<goal team="Arsenal" pen="false">David Luiz</goal>
+				<goal team="Arsenal" pen="false">Gabriel Martinelli</goal>
+				<goal team="Arsenal" pen="false">Héctor Bellerín</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Southampton" />
+				<goal team="Southampton" pen="false">Nathan Redmond</goal>
+				<goal team="Southampton" pen="false">Stuart Armstrong</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Norwich City" />
+				<goal team="Tottenham Hotspur" pen="false">Dele Alli</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Norwich City" pen="true">Teemu Pukki</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Aston Villa" />
+				<goal team="AFC Bournemouth" pen="false">Philip Billing</goal>
+				<goal team="AFC Bournemouth" pen="false">Nathan Aké</goal>
+				<goal team="AFC Bournemouth" pen="false">Jefferson Lerma</goal>
+				<goal team="Aston Villa" pen="false">Mbwana Samatta</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Arsenal" />
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Sheffield United" />
+				<goal team="Sheffield United" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Chelsea" />
+				<goal team="Leicester City" pen="false">Harvey Barnes</goal>
+				<goal team="Leicester City" pen="false">Ben Chilwell</goal>
+				<goal team="Chelsea" pen="false">Antonio Rüdiger</goal>
+				<goal team="Chelsea" pen="false">Antonio Rüdiger</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Southampton" />
+				<goal team="Liverpool" pen="false">Alex Oxlade-Chamberlain</goal>
+				<goal team="Liverpool" pen="false">Jordan Henderson</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Wolverhampton Wanderers" />
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Norwich City" />
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Manchester City" />
+				<goal team="Tottenham Hotspur" pen="false">Steven Bergwijn</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Manchester City" pen="false">Oleksandr Zinchenko</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Everton" />
+				<goal team="Watford" pen="false">Adam Masina</goal>
+				<goal team="Watford" pen="false">Roberto Pereyra</goal>
+				<goal team="Everton" pen="false">Yerry Mina</goal>
+				<goal team="Everton" pen="false">Yerry Mina</goal>
+				<goal team="Everton" pen="false">Fabian Delph</goal>
+				<goal team="Everton" pen="false">Theo Walcott</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="West Ham United" pen="false">Issa Diop</goal>
+				<goal team="West Ham United" pen="false">Robert Snodgrass</goal>
+				<goal team="West Ham United" pen="false">Robert Snodgrass</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Own Goal</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Pascal Groß</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Glenn Murray</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Newcastle United" />
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Nicolas Pépé</goal>
+				<goal team="Arsenal" pen="false">Mesut Özil</goal>
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Aston Villa" pen="false">Own Goal</goal>
+				<goal team="Aston Villa" pen="false">Björn Engels</goal>
+				<goal team="Tottenham Hotspur" pen="false">Toby Alderweireld</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Watford" />
+				<goal team="Brighton and Hove Albion" pen="false">Own Goal</goal>
+				<goal team="Watford" pen="false">Abdoulaye Doucouré</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Manchester United" />
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Harry Maguire</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Crystal Palace" />
+				<goal team="Everton" pen="false">Bernard</goal>
+				<goal team="Everton" pen="false">Richarlison</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Crystal Palace" pen="false">Christian Benteke</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="West Ham United" />
+				<goal team="Manchester City" pen="false">Rodrigo</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Liverpool" />
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="AFC Bournemouth" />
+				<goal team="Sheffield United" pen="false">Billy Sharp</goal>
+				<goal team="Sheffield United" pen="false">John Lundstram</goal>
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Burnley" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Burnley" pen="false">Ashley Westwood</goal>
+				<goal team="Burnley" pen="false">Matej Vydra</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Leicester City" />
+				<goal team="Leicester City" pen="false">Hamza Choudhury</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Everton" />
+				<goal team="Arsenal" pen="false">Eddie Nketiah</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Everton" pen="false">Richarlison</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="AFC Bournemouth" />
+				<goal team="Burnley" pen="false">Matej Vydra</goal>
+				<goal team="Burnley" pen="true">Jay Rodriguez</goal>
+				<goal team="Burnley" pen="false">Dwight McNeil</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+				<goal team="Chelsea" pen="false">Marcos Alonso</goal>
+				<goal team="Tottenham Hotspur" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Newcastle United" />
+				<goal team="Crystal Palace" pen="false">Patrick van Aanholt</goal>
+				<goal team="Newcastle United" pen="false">Valentino Lazaro</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Manchester City" />
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="West Ham United" />
+				<goal team="Liverpool" pen="false">Georginio Wijnaldum</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="West Ham United" pen="false">Issa Diop</goal>
+				<goal team="West Ham United" pen="false">Pablo Fornals</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Watford" />
+				<goal team="Manchester United" pen="true">Bruno Fernandes</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Sheffield United" pen="false">Enda Stevens</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Aston Villa" />
+				<goal team="Southampton" pen="false">Shane Long</goal>
+				<goal team="Southampton" pen="false">Stuart Armstrong</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Norwich City" />
+				<goal team="Wolverhampton Wanderers" pen="false">Diogo Jota</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Diogo Jota</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Sheffield United" />
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Chelsea" />
+				<goal team="AFC Bournemouth" pen="false">Jefferson Lerma</goal>
+				<goal team="AFC Bournemouth" pen="false">Joshua King</goal>
+				<goal team="Chelsea" pen="false">Marcos Alonso</goal>
+				<goal team="Chelsea" pen="false">Marcos Alonso</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Crystal Palace" />
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Manchester United" />
+				<goal team="Everton" pen="false">Dominic Calvert-Lewin</goal>
+				<goal team="Manchester United" pen="false">Bruno Fernandes</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Arsenal" />
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="true">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Phil Foden</goal>
+				<goal team="Arsenal" pen="false">David Luiz</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Burnley" />
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Leicester City" />
+				<goal team="Norwich City" pen="false">Jamal Lewis</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Tottenham Hotspur" pen="false">Steven Bergwijn</goal>
+				<goal team="Tottenham Hotspur" pen="false">Serge Aurier</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Matt Doherty</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Diogo Jota</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Liverpool" />
+				<goal team="Watford" pen="false">Ismaila Sarr</goal>
+				<goal team="Watford" pen="false">Ismaila Sarr</goal>
+				<goal team="Watford" pen="false">Troy Deeney</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Southampton" />
+				<goal team="West Ham United" pen="false">Jarrod Bowen</goal>
+				<goal team="West Ham United" pen="false">Sébastien Haller</goal>
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="Southampton" pen="false">Michael Obafemi</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="West Ham United" />
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Tottenham Hotspur" pen="true">Dele Alli</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Everton" />
+				<goal team="Chelsea" pen="false">Mason Mount</goal>
+				<goal team="Chelsea" pen="false">Pedro</goal>
+				<goal team="Chelsea" pen="false">Willian</goal>
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Watford" />
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Aston Villa" />
+				<goal team="Leicester City" pen="false">Harvey Barnes</goal>
+				<goal team="Leicester City" pen="false">Harvey Barnes</goal>
+				<goal team="Leicester City" pen="true">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="AFC Bournemouth" />
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="AFC Bournemouth" pen="false">Callum Wilson</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Manchester City" />
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Scott McTominay</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Norwich City" />
+				<goal team="Sheffield United" pen="false">Billy Sharp</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Newcastle United" />
+				<goal team="Southampton" pen="false">Moussa Djenepo</goal>
+				<goal team="Newcastle United" pen="false">Allan Saint-Maximin</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Brighton and Hove Albion" />
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Chelsea" />
+				<goal team="Aston Villa" pen="false">Kortney Hause</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Crystal Palace" />
+				<goal team="Crystal Palace" pen="false">Luka Milivojevic</goal>
+				<goal team="Crystal Palace" pen="false">Jordan Ayew</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Arsenal" />
+				<goal team="Brighton and Hove Albion" pen="false">Lewis Dunk</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+				<goal team="Arsenal" pen="false">Nicolas Pépé</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Liverpool" />
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Burnley" />
+				<goal team="Manchester City" pen="false">Phil Foden</goal>
+				<goal team="Manchester City" pen="false">Phil Foden</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="true">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="false">David Silva</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Sheffield United" />
+				<goal team="Newcastle United" pen="false">Allan Saint-Maximin</goal>
+				<goal team="Newcastle United" pen="false">Matt Ritchie</goal>
+				<goal team="Newcastle United" pen="false">Joelinton</goal>
+				<goal team="Sheffield United" pen="false">John Egan</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Southampton" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">Stuart Armstrong</goal>
+				<goal team="Southampton" pen="false">Nathan Redmond</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Manchester United" />
+				<goal team="Tottenham Hotspur" pen="false">Steven Bergwijn</goal>
+				<goal team="Manchester United" pen="true">Bruno Fernandes</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Leicester City" />
+				<goal team="Watford" pen="false">Craig Dawson</goal>
+				<goal team="Leicester City" pen="false">Ben Chilwell</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Pedro Neto</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Watford" />
+				<goal team="Burnley" pen="false">Jay Rodriguez</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Manchester City" />
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+				<goal team="Chelsea" pen="true">Willian</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Fernandinho</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Brighton and Hove Albion" />
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Crystal Palace" />
+				<goal team="Liverpool" pen="false">Trent Alexander-Arnold</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Fabinho</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Sheffield United" />
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Aston Villa" />
+				<goal team="Newcastle United" pen="false">Dwight Gayle</goal>
+				<goal team="Aston Villa" pen="false">Ahmed El Mohamady</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Everton" />
+				<goal team="Everton" pen="false">Michael Keane</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Arsenal" />
+				<goal team="Southampton" pen="false">Jack Stephens</goal>
+				<goal team="Arsenal" pen="false">Eddie Nketiah</goal>
+				<goal team="Arsenal" pen="false">Joseph Willock</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="West Ham United" />
+				<goal team="Tottenham Hotspur" pen="false">Own Goal</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="AFC Bournemouth" />
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Norwich City" />
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Granit Xhaka</goal>
+				<goal team="Arsenal" pen="false">Cédric Soares</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Wolverhampton Wanderers" pen="false">Leander Dendoncker</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Newcastle United" />
+				<goal team="AFC Bournemouth" pen="false">Dan Gosling</goal>
+				<goal team="Newcastle United" pen="false">Dwight Gayle</goal>
+				<goal team="Newcastle United" pen="false">Sean Longstaff</goal>
+				<goal team="Newcastle United" pen="false">Miguel Almirón</goal>
+				<goal team="Newcastle United" pen="false">Valentino Lazaro</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Manchester United" />
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="Manchester United" pen="false">Bruno Fernandes</goal>
+				<goal team="Manchester United" pen="false">Bruno Fernandes</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Burnley" />
+				<goal team="Burnley" pen="false">Ben Mee</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Leicester City" />
+				<goal team="Everton" pen="false">Richarlison</goal>
+				<goal team="Everton" pen="true">Gylfi Sigurdsson</goal>
+				<goal team="Leicester City" pen="false">Kelechi Iheanacho</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Liverpool" />
+				<goal team="Manchester City" pen="true">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Phil Foden</goal>
+				<goal team="Manchester City" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Sheffield United" pen="false">Sander Berge</goal>
+				<goal team="Sheffield United" pen="false">Lys Mousset</goal>
+				<goal team="Sheffield United" pen="false">Oliver McBurnie</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Southampton" />
+				<goal team="Watford" pen="false">Own Goal</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">James Ward-Prowse</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Chelsea" />
+				<goal team="West Ham United" pen="false">Tomas Soucek</goal>
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="West Ham United" pen="false">Andriy Yarmolenko</goal>
+				<goal team="Chelsea" pen="true">Willian</goal>
+				<goal team="Chelsea" pen="false">Willian</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Sheffield United" />
+				<goal team="Burnley" pen="false">James Tarkowski</goal>
+				<goal team="Sheffield United" pen="false">John Egan</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Watford" />
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+				<goal team="Chelsea" pen="true">Willian</goal>
+				<goal team="Chelsea" pen="false">Ross Barkley</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Crystal Palace" />
+				<goal team="Leicester City" pen="false">Kelechi Iheanacho</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Aston Villa" />
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+				<goal team="Liverpool" pen="false">Curtis Jones</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="AFC Bournemouth" />
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="Manchester United" pen="true">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Manchester United" pen="false">Bruno Fernandes</goal>
+				<goal team="AFC Bournemouth" pen="false">Junior Stanislas</goal>
+				<goal team="AFC Bournemouth" pen="true">Joshua King</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="West Ham United" />
+				<goal team="Newcastle United" pen="false">Miguel Almirón</goal>
+				<goal team="Newcastle United" pen="false">Jonjo Shelvey</goal>
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="West Ham United" pen="false">Tomas Soucek</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Brighton and Hove Albion" pen="false">Leandro Trossard</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Manchester City" />
+				<goal team="Southampton" pen="false">Che Adams</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Everton" />
+				<goal team="Tottenham Hotspur" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Arsenal" />
+				<goal team="Arsenal" pen="false">Bukayo Saka</goal>
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Leicester City" />
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Eddie Nketiah</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Manchester United" />
+				<goal team="Manchester United" pen="true">Bruno Fernandes</goal>
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="Manchester United" pen="false">Paul Pogba</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Tottenham Hotspur" />
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Liverpool" />
+				<goal team="Brighton and Hove Albion" pen="false">Leandro Trossard</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Mohamed Salah</goal>
+				<goal team="Liverpool" pen="false">Jordan Henderson</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Chelsea" />
+				<goal team="Crystal Palace" pen="false">Wilfried Zaha</goal>
+				<goal team="Crystal Palace" pen="false">Christian Benteke</goal>
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Southampton" />
+				<goal team="Everton" pen="false">Richarlison</goal>
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Newcastle United" />
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+				<goal team="Manchester City" pen="false">Own Goal</goal>
+				<goal team="Manchester City" pen="false">David Silva</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Sheffield United" pen="false">John Egan</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Norwich City" />
+				<goal team="Watford" pen="false">Craig Dawson</goal>
+				<goal team="Watford" pen="false">Danny Welbeck</goal>
+				<goal team="Norwich City" pen="false">Emiliano Buendía</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Burnley" />
+				<goal team="Burnley" pen="false">Jay Rodriguez</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Crystal Palace" />
+				<goal team="Aston Villa" pen="false">Trézéguet</goal>
+				<goal team="Aston Villa" pen="false">Trézéguet</goal>
+				<goal team="Crystal Palace" pen="false">Christian Benteke</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Leicester City" />
+				<goal team="AFC Bournemouth" pen="true">Junior Stanislas</goal>
+				<goal team="AFC Bournemouth" pen="false">Dominic Solanke</goal>
+				<goal team="AFC Bournemouth" pen="false">Dominic Solanke</goal>
+				<goal team="AFC Bournemouth" pen="false">Own Goal</goal>
+				<goal team="Leicester City" pen="false">Jamie Vardy</goal>
+				<goal team="Leicester City" pen="false">Çaglar Söyüncü</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Manchester City" />
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Bernardo Silva</goal>
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Burnley" />
+				<goal team="Liverpool" pen="false">Andrew Robertson</goal>
+				<goal team="Burnley" pen="false">Jay Rodriguez</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="Southampton" />
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+				<goal team="Southampton" pen="false">Stuart Armstrong</goal>
+				<goal team="Southampton" pen="false">Michael Obafemi</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="West Ham United" />
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Chelsea" />
+				<goal team="Sheffield United" pen="false">David McGoldrick</goal>
+				<goal team="Sheffield United" pen="false">David McGoldrick</goal>
+				<goal team="Sheffield United" pen="false">Oliver McBurnie</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Arsenal" />
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Tottenham Hotspur" pen="false">Toby Alderweireld</goal>
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Newcastle United" />
+				<goal team="Watford" pen="true">Troy Deeney</goal>
+				<goal team="Watford" pen="true">Troy Deeney</goal>
+				<goal team="Newcastle United" pen="false">Dwight Gayle</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Everton" />
+				<goal team="Wolverhampton Wanderers" pen="true">Raúl Jiménez</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Leander Dendoncker</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Diogo Jota</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Liverpool" />
+				<goal team="Arsenal" pen="false">Alexandre Lacazette</goal>
+				<goal team="Arsenal" pen="false">Reiss Nelson</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Burnley" pen="true">Chris Wood</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Raúl Jiménez</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Norwich City" />
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Manchester United" />
+				<goal team="Manchester United" pen="false">Marcus Rashford</goal>
+				<goal team="Manchester United" pen="false">Anthony Martial</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="Aston Villa" />
+				<goal team="Everton" pen="false">Theo Walcott</goal>
+				<goal team="Aston Villa" pen="false">Ezri Konsa Ngoyo</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Sheffield United" />
+				<goal team="Leicester City" pen="false">Ayoze Pérez</goal>
+				<goal team="Leicester City" pen="false">Demarai Gray</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="AFC Bournemouth" />
+				<goal team="Manchester City" pen="false">David Silva</goal>
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="AFC Bournemouth" pen="false">David Brooks</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Newcastle United" pen="false">Matt Ritchie</goal>
+				<goal team="Tottenham Hotspur" pen="false">Son Heung-Min</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Neal Maupay</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Watford" />
+				<goal team="West Ham United" pen="false">Michail Antonio</goal>
+				<goal team="West Ham United" pen="false">Tomas Soucek</goal>
+				<goal team="West Ham United" pen="false">Declan Rice</goal>
+				<goal team="Watford" pen="false">Troy Deeney</goal>
+			</game>
+			<game>
+				<home team="Aston Villa" />
+				<away team="Arsenal" />
+				<goal team="Aston Villa" pen="false">Trézéguet</goal>
+			</game>
+			<game>
+				<home team="AFC Bournemouth" />
+				<away team="Southampton" />
+				<goal team="Southampton" pen="false">Danny Ings</goal>
+				<goal team="Southampton" pen="false">Che Adams</goal>
+			</game>
+			<game>
+				<home team="Brighton and Hove Albion" />
+				<away team="Newcastle United" />
+			</game>
+			<game>
+				<home team="Liverpool" />
+				<away team="Chelsea" />
+				<goal team="Liverpool" pen="false">Naby Keita</goal>
+				<goal team="Liverpool" pen="false">Trent Alexander-Arnold</goal>
+				<goal team="Liverpool" pen="false">Georginio Wijnaldum</goal>
+				<goal team="Liverpool" pen="false">Roberto Firmino</goal>
+				<goal team="Liverpool" pen="false">Alex Oxlade-Chamberlain</goal>
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+				<goal team="Chelsea" pen="false">Tammy Abraham</goal>
+				<goal team="Chelsea" pen="false">Christian Pulisic</goal>
+			</game>
+			<game>
+				<home team="Manchester United" />
+				<away team="West Ham United" />
+				<goal team="Manchester United" pen="false">Mason Greenwood</goal>
+				<goal team="West Ham United" pen="true">Michail Antonio</goal>
+			</game>
+			<game>
+				<home team="Norwich City" />
+				<away team="Burnley" />
+				<goal team="Norwich City" pen="false">Emiliano Buendía</goal>
+				<goal team="Norwich City" pen="false">Josip Drmic</goal>
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Burnley" pen="false">Own Goal</goal>
+			</game>
+			<game>
+				<home team="Sheffield United" />
+				<away team="Everton" />
+				<goal team="Everton" pen="false">Richarlison</goal>
+			</game>
+			<game>
+				<home team="Tottenham Hotspur" />
+				<away team="Leicester City" />
+				<goal team="Tottenham Hotspur" pen="false">Own Goal</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Watford" />
+				<away team="Manchester City" />
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Phil Foden</goal>
+				<goal team="Manchester City" pen="false">Aymeric Laporte</goal>
+			</game>
+			<game>
+				<home team="Wolverhampton Wanderers" />
+				<away team="Crystal Palace" />
+				<goal team="Wolverhampton Wanderers" pen="false">Daniel Podence</goal>
+				<goal team="Wolverhampton Wanderers" pen="false">Jonny</goal>
+			</game>
+			<game>
+				<home team="Arsenal" />
+				<away team="Watford" />
+				<goal team="Arsenal" pen="true">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Pierre-Emerick Aubameyang</goal>
+				<goal team="Arsenal" pen="false">Kieran Tierney</goal>
+				<goal team="Watford" pen="true">Troy Deeney</goal>
+				<goal team="Watford" pen="false">Danny Welbeck</goal>
+			</game>
+			<game>
+				<home team="Burnley" />
+				<away team="Brighton and Hove Albion" />
+				<goal team="Burnley" pen="false">Chris Wood</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Yves Bissouma</goal>
+				<goal team="Brighton and Hove Albion" pen="false">Aaron Connolly</goal>
+			</game>
+			<game>
+				<home team="Chelsea" />
+				<away team="Wolverhampton Wanderers" />
+				<goal team="Chelsea" pen="false">Mason Mount</goal>
+				<goal team="Chelsea" pen="false">Olivier Giroud</goal>
+			</game>
+			<game>
+				<home team="Crystal Palace" />
+				<away team="Tottenham Hotspur" />
+				<goal team="Crystal Palace" pen="false">Jeffrey Schlupp</goal>
+				<goal team="Tottenham Hotspur" pen="false">Harry Kane</goal>
+			</game>
+			<game>
+				<home team="Everton" />
+				<away team="AFC Bournemouth" />
+				<goal team="Everton" pen="false">Moise Kean</goal>
+				<goal team="AFC Bournemouth" pen="true">Joshua King</goal>
+				<goal team="AFC Bournemouth" pen="false">Dominic Solanke</goal>
+				<goal team="AFC Bournemouth" pen="false">Junior Stanislas</goal>
+			</game>
+			<game>
+				<home team="Leicester City" />
+				<away team="Manchester United" />
+				<goal team="Leicester City" pen="false">Jonny Evans</goal>
+				<goal team="Manchester United" pen="true">Bruno Fernandes</goal>
+				<goal team="Manchester United" pen="false">Jesse Lingard</goal>
+			</game>
+			<game>
+				<home team="Manchester City" />
+				<away team="Norwich City" />
+				<goal team="Manchester City" pen="false">Gabriel Jesus</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Kevin De Bruyne</goal>
+				<goal team="Manchester City" pen="false">Raheem Sterling</goal>
+				<goal team="Manchester City" pen="false">Riyad Mahrez</goal>
+			</game>
+			<game>
+				<home team="Newcastle United" />
+				<away team="Liverpool" />
+				<goal team="Newcastle United" pen="false">Dwight Gayle</goal>
+				<goal team="Liverpool" pen="false">Virgil van Dijk</goal>
+				<goal team="Liverpool" pen="false">Divock Origi</goal>
+				<goal team="Liverpool" pen="false">Sadio Mané</goal>
+			</game>
+			<game>
+				<home team="Southampton" />
+				<away team="Sheffield United" />
+				<goal team="Southampton" pen="false">Che Adams</goal>
+				<goal team="Southampton" pen="false">Che Adams</goal>
+				<goal team="Southampton" pen="true">Danny Ings</goal>
+				<goal team="Sheffield United" pen="false">John Lundstram</goal>
+			</game>
+			<game>
+				<home team="West Ham United" />
+				<away team="Aston Villa" />
+				<goal team="West Ham United" pen="false">Andriy Yarmolenko</goal>
+				<goal team="Aston Villa" pen="false">Jack Grealish</goal>
+			</game>
+
+		</gameweek>
+	</games>
+	<league name="English Premier League">
+		<team>Liverpool</team>
+		<team>Norwich City</team>
+		<team>AFC Bournemouth</team>
+		<team>Sheffield United</team>
+		<team>Burnley</team>
+		<team>Southampton</team>
+		<team>Crystal Palace</team>
+		<team>Everton</team>
+		<team>Leicester City</team>
+		<team>Wolverhampton Wanderers</team>
+		<team>Tottenham Hotspur</team>
+		<team>Aston Villa</team>
+		<team>Watford</team>
+		<team>Brighton and Hove Albion</team>
+		<team>West Ham United</team>
+		<team>Manchester City</team>
+		<team>Manchester United</team>
+		<team>Chelsea</team>
+		<team>Newcastle United</team>
+		<team>Arsenal</team>
+	</league>
+</season>
