@@ -1,8 +1,8 @@
 #Import XML Change Variables for tree, league, and season
 import xml.etree.ElementTree as ET
-tree = ET.parse('c:/Users/Jeff/Dropbox/Top Scorer FC/EPL19-20.xml')
+tree = ET.parse('c:/Users/vanbo/Documents/TopScorerFC/topscorerfc/EPL All Time.xml')
 league = "English Premier League"
-season = "2019-2020"
+season = "2021-2022"
 root = tree.getroot()
 
 #Create/Open Files for output

@@ -1,8 +1,8 @@
 #Variables
-matchStart = 58897
-matchEnd = 59275
+matchStart = 66342
+matchEnd = 66721
 preURL = "https://www.premierleague.com/match/"
-season = "2020-2021"
+season = "2021-2022"
 league = "English Premier League"
 
 #Import html process
